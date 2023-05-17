@@ -16,7 +16,7 @@ npm install
 ```bash
 # Launch a local web server for development with hot reload
 npm run dev
-# Build files with minified files ready for production
+# Build files with minified files ready for production in a `dist` folder
 npm run build
 # Serve the built files
 npm run preview
